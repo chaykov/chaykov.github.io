@@ -8,3 +8,11 @@ body{
     background-color: black;
     color: whitesmoke;
 }
+
+p{
+    color: white;
+}
+
+#nametext{
+    color: white;
+}
